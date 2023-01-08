@@ -1,6 +1,5 @@
 <div align="center">  
-<h1>Sequence Mining With SPADE</h1>
-<img src="http://cab.spbu.ru/wp-content/uploads/2016/04/SPAdes_transparent_background.png" height="150">
+<h1>Market Basket Analysis</h1>
 <p>Subscriber purchase pattern analysis to ensure repeat purchase and cross-sales.<b> (Market Basket Analysis)</b> </p>
   
 </div>
